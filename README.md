@@ -1,5 +1,3 @@
-# intro-python-trading-spy
-
 # Python for Finance: SPY Analysis, Technical Indicators & Simple Backtesting
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
