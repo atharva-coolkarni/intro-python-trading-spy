@@ -69,8 +69,3 @@ Future planned enhancements:
 Feel free to fork, use as learning reference, or open issues/suggestions!
 
 ---
-Last updated: December 2025
-```
-
-This version is clean, professional, transparent about being tutorial-based, gives proper credit, and looks attractive on GitHub with badges.  
-Good luck with your repo — it's a great starting point for a finance/Python portfolio! 🚀
