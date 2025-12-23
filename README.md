@@ -1,6 +1,5 @@
 # intro-python-trading-spy
 
-```markdown
 # Python for Finance: SPY Analysis, Technical Indicators & Simple Backtesting
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
@@ -31,7 +30,7 @@ It covers downloading data, calculating returns & volatility, creating technical
 - Required libraries:
   ```bash
   pip install yfinance pandas_ta matplotlib numpy pandas
-  ```
+
 
 ## Usage
 
