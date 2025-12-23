@@ -4,7 +4,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Libraries](https://img.shields.io/badge/Libraries-yfinance%20%7C%20pandas_ta%20%7C%20matplotlib-success)](https://github.com/ranaroussi/yfinance)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Udemy Course](https://img.shields.io/badge/Source-Udemy%20Course-orange)](https://www.udemy.com/course/python-for-trading-and-finance/)
 
 ## Overview
